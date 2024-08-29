@@ -2,12 +2,12 @@
 This project focuses on building a data processing pipeline using AWS services. It includes setting up an AWS environment, uploading data to S3, and using Glue and Athena for data cataloging and querying. The project also covers writing ETL jobs in AWS Lambda to preprocess and clean the data.
 
 
-Data Ingestion — Build a mechanism to ingest data from different sources.
-ETL System — We are getting data in raw format, transforming this data into the proper format.
-Data lake — We will be getting data from multiple sources so we need centralized repo to store them.
-Scalability — As the size of our data increases, we need to make sure our system scales with it.
-Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS.
-Reporting — Build a dashboard to get answers to the question we asked earlier.
+1. Data Ingestion — Build a mechanism to ingest data from different sources.
+2. ETL System — We are getting data in raw format, transforming this data into the proper format.
+3. Data lake — We will be getting data from multiple sources so we need centralized repo to store them.
+4. Scalability — As the size of our data increases, we need to make sure our system scales with it.
+5. Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS.
+6. Reporting — Build a dashboard to get answers to the question we asked earlier.
 
 
 SERVICES USED
